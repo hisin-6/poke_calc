@@ -5,6 +5,7 @@
       !(function (n) {
         "use strict";
         var t = e("Y4iA"),
+        //　特性
           r = [
             [],
             [65, 0, 0, 34, 0],
